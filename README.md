@@ -1,4 +1,4 @@
-# Previsão de demanda com séries temporais & estratégia de preço
+# Previsão de demanda & precificação
 
 - Previsão de Demanda : Usando séries temporais com modelos ARIMA, SARIMA e Prophet. <br>
 - Estratégia de Preço : Explorando a relação entre preço e vendas com regressão linear, regressão polinomial e clusterização.<br>
