@@ -1,0 +1,6 @@
+# Ignorar arquivos grandes
+datasets/*.csv
+*.csv
+*.xlsx
+*.zip
+*.rar
